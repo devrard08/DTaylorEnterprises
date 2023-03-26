@@ -1,8 +1,9 @@
 
 # DTaylorEnterprises
 
-This project is to fix potential SEO or bugs found on https://www.dtaylorenterprises.com/
+This project is to fix potential bugs or SEO issues found on https://www.dtaylorenterprises.com/
 
+All data found within the code belongs to its respective owner, https://www.dtaylorenterprises.com
 
 ## Authors
 
@@ -14,6 +15,24 @@ This project is to fix potential SEO or bugs found on https://www.dtaylorenterpr
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
+
+## Updates
+
+#### v0.0.1
+- Moved CSS style from HTML file to /assets/css/style.css
+- Fonts, Rubik and Archivo, provided by fonts.google.com will be self-hosted. Located in /assest/fonts
+- Companies, Projects, and Events will be wrapped around the section tag instead of the div tag.
+- The alt attribute for all images has been added.
+
+
+
+## File Structure
+    assets
+    |   --css      
+    |   --fonts     
+    |   --img       
+    |   --js
+    index.html
 ## Color Reference
 
 | Color             | Hex                                                                |
