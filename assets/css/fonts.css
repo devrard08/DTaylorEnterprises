@@ -1,0 +1,24 @@
+/* Rubik */
+@font-face {
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 300;
+    font-stretch: 100%;
+    font-display: swap;
+    src: url('/assets/fonts/rubik-light-webfont.woff2') format('woff2'), 
+    url('/assets/fonts/rubik-light-webfont.woff') format('woff');
+}
+
+
+
+/* Archivo */
+@font-face {
+    font-family: 'Archivo';
+    font-style: normal;
+    font-weight: 600;
+    font-stretch: 100%;
+    font-display: swap;
+    src: url('/assets/fonts/archivo-semibold-webfont.woff2') format('woff2'), 
+    url('/assets/fonts/archivo-semibold-webfont.woff') format('woff');
+}
+
