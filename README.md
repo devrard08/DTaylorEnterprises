@@ -19,8 +19,8 @@ All data found within the code belongs to its respective owner, https://www.dtay
 ## Updates
 
 #### v0.0.2
--canonical tag has been added
--Meta tags have been updated. Facebook & Twitter tags have been added as well
+- Canonical tag has been added
+- Meta tags have been updated. Facebook & Twitter tags have been added as well
 
 #### v0.0.1
 - Moved CSS style from HTML file to /assets/css/style.css
